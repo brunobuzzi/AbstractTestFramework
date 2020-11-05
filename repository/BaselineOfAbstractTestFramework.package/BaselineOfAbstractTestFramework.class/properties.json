@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAbstractTestFramework",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAbstractTestFramework",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
