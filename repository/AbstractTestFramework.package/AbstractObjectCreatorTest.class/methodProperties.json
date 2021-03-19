@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"keepTempObjectsInSystem" : "brunobb 11/05/2020 09:08",
-		"keepTempObjectsInSystem:" : "brunobb 11/05/2020 09:08" },
+		"setFalseKeepTempObjectsInSystem" : "brunobb 03/19/2021 12:42",
+		"setTrueKeepTempObjectsInSystem" : "brunobb 03/19/2021 12:42" },
 	"instance" : {
 		"keepTempObjectsInSystem" : "brunobb 11/05/2020 11:40" } }
