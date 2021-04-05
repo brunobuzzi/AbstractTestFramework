@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractTestFramework",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AbstractFormTemplateWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
