@@ -1,0 +1,4 @@
+other
+instanceTemplate
+
+	^FormInstanceTemplateWrapper new
