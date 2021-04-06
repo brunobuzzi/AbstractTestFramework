@@ -1,4 +1,0 @@
-other
-definitionTemplate
-
-	^FormDefinitionTemplateWrapper new
