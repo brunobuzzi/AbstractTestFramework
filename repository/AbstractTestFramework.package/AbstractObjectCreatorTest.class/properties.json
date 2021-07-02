@@ -6,7 +6,7 @@
 		"KeepTempObjectsInSystem" ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"testRoot" ],
 	"name" : "AbstractObjectCreatorTest",
 	"pools" : [
 		 ],
